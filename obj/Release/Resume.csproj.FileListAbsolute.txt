@@ -1,6 +1,0 @@
-C:\Users\skidd_000\Documents\Resume\Resume\Resume\bin\Resume.dll.config
-C:\Users\skidd_000\Documents\Resume\Resume\Resume\bin\Resume.dll
-C:\Users\skidd_000\Documents\Resume\Resume\Resume\bin\Resume.pdb
-C:\Users\skidd_000\Documents\Resume\Resume\Resume\obj\Release\Resume.dll
-C:\Users\skidd_000\Documents\Resume\Resume\Resume\obj\Release\Resume.pdb
-C:\Users\skidd_000\Documents\Resume\Resume\Resume\obj\Release\Resume.csprojResolveAssemblyReference.cache
