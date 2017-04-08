@@ -4,3 +4,9 @@ C:\Users\skidd_000\Documents\Resume\Resume\Resume\bin\Resume.pdb
 C:\Users\skidd_000\Documents\Resume\Resume\Resume\obj\Debug\Resume.dll
 C:\Users\skidd_000\Documents\Resume\Resume\Resume\obj\Debug\Resume.pdb
 C:\Users\skidd_000\Documents\Resume\Resume\Resume\obj\Debug\Resume.csprojResolveAssemblyReference.cache
+C:\git\Resume\Resume\Resume\bin\Resume.dll.config
+C:\git\Resume\Resume\Resume\bin\Resume.dll
+C:\git\Resume\Resume\Resume\bin\Resume.pdb
+C:\git\Resume\Resume\Resume\obj\Debug\Resume.csprojResolveAssemblyReference.cache
+C:\git\Resume\Resume\Resume\obj\Debug\Resume.dll
+C:\git\Resume\Resume\Resume\obj\Debug\Resume.pdb
